@@ -10,8 +10,3 @@ function exponencial (base, expoente) {
 }
 
 exponencial(2,3)
-
-
-// Pagamento via PIX
-
-// Rodape
